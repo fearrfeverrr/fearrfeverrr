@@ -6,7 +6,7 @@
     <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ecb4d1&labelColor=c64a86&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/fearrfeverrr"/>
   </a>
   <a href="https://github.com/fearrfeverrr?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0-don?color=ecb4d1&labelColor=f2dce7&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fearrfeverrr?color=ecb4d1&labelColor=f2dce7&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/fearrfeverrr/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://fearrfeverrr.neocities.org/username=fearrfeverrr&style=for-the-badge&color=lightpink"/>
   </a>
@@ -32,8 +32,7 @@
 
 ### DevOps & Tools
 
-![pycharm](https://img.shields.io/badge/pycharm?style=flat-square&logo=pycharm&logoColor=ecb4d1
-)
+
 ![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
 ![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
