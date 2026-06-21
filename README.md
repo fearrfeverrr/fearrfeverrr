@@ -6,7 +6,7 @@
     <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ecb4d1&labelColor=c64a86&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/fearrfeverrr"/>
   </a>
   <a href="https://github.com/fearrfeverrr?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fearrfeverrr?color=ecb4d1&labelColor=f2dce7&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fearrfeverrr?color=ecb4d1&labelColor=f2dce7&style=for-the-badge&logo=person-add&label=Follow&logoColor=f2dce7"/></a>
   <a href="https://github.com/fearrfeverrr/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fearrfeverrr&style=for-the-badge&color=c64a86"/>
   </a>
