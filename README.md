@@ -8,7 +8,7 @@
   <a href="https://github.com/fearrfeverrr?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fearrfeverrr?color=ecb4d1&labelColor=f2dce7&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/fearrfeverrr/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fearrfeverrr&style=for-the-badge&color=white"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fearrfeverrr&style=for-the-badge&color=c64a86"/>
   </a>
 </p>
 
