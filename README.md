@@ -17,10 +17,10 @@
 
 ### ❣️Languages❣️
 
-![python](https://share.google/hX37QYw2jYUXhIOZP)
-![bash]
-![gdscript](https://share.google/7f8TIZrgnYzjr5u0t)
-![javascript]
+![python](https://img.shields.io/badge/Python-pink%3Flogo%3Dpython?style=social&logo=python&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
+![bash](https://img.shields.io/badge/bash-pink%3Flogo%3Dgnubash?style=social&logo=gnubash&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
+![gdscript](https://img.shields.io/badge/Godot-pink%3Flogo%3Dgodotengine?style=social&logo=godotengine&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
+![javascript](https://img.shields.io/badge/Javascript-pink%3Flogo%3Djavascript?style=social&logo=javascript&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
 
 ### ❣️Technologies & Frameworks ❣️
 
@@ -33,12 +33,12 @@
 ### ❣️DevOps & Tools❣️
 
 
-![outlook](https://share.google/CG8Czl9FYaRZR1nQB)
-![macos](https://share.google/uef1Almle3FcauiXZ)
-![linux](https://share.google/RJmH19QdcqvhfOku4)
-![github](https://share.google/4pwo2lWwfS5ZPNDcY)
-![itch.io](https://share.google/RUN5bRZyWivdresb6)
-![gdevelop](https://share.google/pIqOwTbYsfm1bMRCx)
+![adafruit](https://img.shields.io/badge/adafruit-pink%3Flogo%3Dadafruit?style=social&logo=adafruit&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
+![macos](https://img.shields.io/badge/macOS-pink%3Flogo%3Dmacos?style=social&logo=macos&logoColor=pink&logoSize=64px&labelColor=pink&color=white)
+![linux](https://img.shields.io/badge/linux-pink%3Flogo%3Dlinuxmint?style=social&logo=linuxmint&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
+![github](https://img.shields.io/badge/github-pink%3Flogo%3Dgithub?style=social&logo=github&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
+![itch.io](https://img.shields.io/badge/itch.io-pink%3Flogo%3Ditchdotio?style=social&logo=itchdotio&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
+![gdevelop](https://img.shields.io/badge/gdevelop-pink%3Flogo%3Dgamedeveloper?style=social&logo=gamedeveloper&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
 
 ## 💥 GitHub Stats 💥
 
@@ -56,7 +56,7 @@
   <summary><b> 🤍 Websites 🤍</b></summary>
   <br/>
   <p align="center">
-    <a href="https://(https://fearrfeverrr.neocities.org/)">
+    <a href="https://(https://fearrfeverrr.neocities.org/)">Neocities<
       <img height="64px" src="https://fearrfeverrr.neocities.org/Hiiiiii%20(1).png"/>
     </a>
    </details>
@@ -66,7 +66,7 @@
   <summary><b> 🦇Desktop 🦇</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/fearrfeverrr/cheese">
+    <a href="https://github.com/fearrfeverrr/cheese">Cheese HTML game<
       <img height="64px" src="https://fearrfeverrr.neocities.org/fearrfeverrr.png"/>
     </a>
       </p>
