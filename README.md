@@ -13,15 +13,16 @@
 </p>
 
 :love_letter: :love_letter: :love_letter: :love_letter: :love_letter: :love_letter: :love_letter:
-## 🚀 Technologies & Tools
+## 🏩 Technologies & Tools 🏩
 
-### Languages
+### ❣️Languages❣️
 
-![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
-![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
+![python](https://share.google/hX37QYw2jYUXhIOZP)
+![bash](https://bashlogo.com/img/symbol/png/monochrome_dark.png)
+![gdscript](https://share.google/7f8TIZrgnYzjr5u0t)
+![javascript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 
-### Technologies & Frameworks
+### ❣️Technologies & Frameworks ❣️
 
 ![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
@@ -29,17 +30,17 @@
 ![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
 ![playwright](https://custom-icon-badges.herokuapp.com/badge/playwright-black.svg?logo=playwright&logoColor=white&style=flat-square)
 
-### DevOps & Tools
+### ❣️DevOps & Tools❣️
 
 
-![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
-![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
-![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
-![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
-![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
-![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
+![outlook](https://share.google/CG8Czl9FYaRZR1nQB)
+![macos](https://share.google/uef1Almle3FcauiXZ)
+![linux](https://share.google/RJmH19QdcqvhfOku4)
+![github](https://share.google/4pwo2lWwfS5ZPNDcY)
+![itch.io](https://share.google/RUN5bRZyWivdresb6)
+![gdevelop](https://share.google/pIqOwTbYsfm1bMRCx)
 
-## ⚡ GitHub Stats
+## 💥 GitHub Stats 💥
 
 <p align="center">
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=fearrfeverrr&hide_border=true&theme=dark" />
@@ -49,24 +50,24 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=fearrfeverrr&theme=onedark&column=-1)
 
-## ⭐ My Projects
+## 💋My Projects💋
 
 <details>
-  <summary><b>🌐 &nbsp;Websites</b></summary>
+  <summary><b> 🤍 Websites 🤍</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/fearrfeverrr/fearrfeverrr_dev">
-      <img height="120px" src="https://github.com/fearrfeverrr/fearrfeverrr_dev/blob/main/welcome%20code.png&theme=react&bg_color=151515&title_color=fff&icon_color=c64a86&hide_border=true&show_icons=false" />
+    <a href="https://(https://fearrfeverrr.neocities.org/)">
+      <img height="64px" src="https://fearrfeverrr.neocities.org/Hiiiiii%20(1).png"/>
     </a>
    </details>
 
 
 <details>
-  <summary><b>🖥️ &nbsp;Desktop</b></summary>
+  <summary><b> 🦇Desktop 🦇</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/fearrfeverrr/cheese">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=fearrfeverrr&repo=clippy&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+      <img height="64px" src="https://fearrfeverrr.neocities.org/fearrfeverrr.png"/>
     </a>
       </p>
 </details>
