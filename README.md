@@ -18,9 +18,9 @@
 ### ❣️Languages❣️
 
 ![python](https://share.google/hX37QYw2jYUXhIOZP)
-![bash](https://bashlogo.com/img/symbol/png/monochrome_dark.png)
+![bash]
 ![gdscript](https://share.google/7f8TIZrgnYzjr5u0t)
-![javascript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![javascript]
 
 ### ❣️Technologies & Frameworks ❣️
 
