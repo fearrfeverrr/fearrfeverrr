@@ -100,6 +100,7 @@
 
 <details>
   <summary><b> 🤍 Websites 🤍</b></summary>
+   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L7F821Q562)
   <br/>
   <p align="center">
     <a href="https://(https://fearrfeverrr.neocities.org/)">Neocities<
