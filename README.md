@@ -97,10 +97,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=fearrfeverrr&theme=onedark&column=-1)
 
 ## 💋My Projects💋
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L7F821Q562)
 <details>
   <summary><b> 🤍 Websites 🤍</b></summary>
-   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L7F821Q562)
   <br/>
   <p align="center">
     <a href="https://(https://fearrfeverrr.neocities.org/)">Neocities<
