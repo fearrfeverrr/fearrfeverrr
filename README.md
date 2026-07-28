@@ -5,7 +5,8 @@
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=repos&style=plastic)
   ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=commits&style=plastic)
   ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=contributions&label=Contributions&style=plastic) 
-  ![GitHub Mini Badge](https://komarev.com/ghpvc/fearrfeverrr&color=ff69b4) /p>
+  ![GitHub Mini Badge](https://komarev.com/ghpvc/fearrfeverrr=ff69b4) 
+  /p>
 
 
 
