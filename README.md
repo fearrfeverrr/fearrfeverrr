@@ -1,17 +1,19 @@
 <p align="center">
-  <a href="https://github.com/fearrfeverrr?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=f2dce7&labelColor=c64a86&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/fearrfeverrr"/>
-  </a>
-  <a href="https://github.com/fearrfeverrr?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ecb4d1&labelColor=c64a86&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/fearrfeverrr"/>
-  </a>
-  <a href="https://github.com/fearrfeverrr?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fearrfeverrr?color=ecb4d1&labelColor=f2dce7&style=for-the-badge&logo=person-add&label=Follow&logoColor=f2dce7"/></a>
-  <a href="https://github.com/fearrfeverrr/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=fearrfeverrr&style=for-the-badge&color=c64a86"/>
-  </a>
-</p>
- <b> Welcome to f̵͖̤͑ȩ̖̺͙̺̦̖̤ͅa̩̰͙̜͙̭̐ͅŗ͍̐ͭ͛̇̃̔̋ͩr̘͇͇̖̩̼͙f̸̵̲̱͇͕̯̼̹̾ͤ̈͗̽ȩ̶̲̲̹̓̿̑̅ͨͅv̪͈̣͈̗̼̑͒e̱̻̬̫̫͕̳͂̎ͨ̅͂͐ŗ̰̘̬̱̮̽̄ͤ́ͦͅr̸̜̙̱̫̤̫͐̾̓̍r͔̯̤̹̠̬̤̼̓ͥ̀̎ͮ̎ͬ </b>
+
+  ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&style=plastic)
+  
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=repos&style=plastic)
+  
+  ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=commits&style=plastic)
+  
+  ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=contributions&label=Contributions&style=plastic)
+
+
+
+
+  
+  
+  <b> Welcome to f̵͖̤͑ȩ̖̺͙̺̦̖̤ͅa̩̰͙̜͙̭̐ͅŗ͍̐ͭ͛̇̃̔̋ͩr̘͇͇̖̩̼͙f̸̵̲̱͇͕̯̼̹̾ͤ̈͗̽ȩ̶̲̲̹̓̿̑̅ͨͅv̪͈̣͈̗̼̑͒e̱̻̬̫̫͕̳͂̎ͨ̅͂͐ŗ̰̘̬̱̮̽̄ͤ́ͦͅr̸̜̙̱̫̤̫͐̾̓̍r͔̯̤̹̠̬̤̼̓ͥ̀̎ͮ̎ͬ </b>
 
 
  
@@ -20,44 +22,13 @@
 :love_letter: :love_letter: :love_letter: :love_letter: :love_letter: :love_letter: :love_letter:
 ```
 
-=-=-==--------============+===-=========#########%#######%====+++++++++=++++++++++++=++++
-++=-=--==----====+====---===-=======%#################%#%###%+++**+++++++++++++++++**++++
-++++=-------===========--=-======%#############################++++++=++++++++=++*+++++++
-++++=----------=====--=-======-####################%####%#######%======+=+==++*+******+++
-++++==-----==+----==---=-====#####%%%%%#%########################%#===+=+==++++*******+++
-=+==---------==+=+===----==%#%%%%%%%%%%%%%#%##################%#####%%=+====+++++*****+++
-===----=-------=--------=##%%%%%%%%========+*%############%%%%#%#######*=+====+++++++++++
-=====--=-=-----=-==-=-==@#%%%%%%===+-------+==+%#############%#####%####%+++++=++++++++++
--==---===---=---==-====%#%%%%%%==-------------==+%####%############%%###%%=++=+++++++++++
-===-----=-=====-=======#%%%%%%=---#:----------:--==%#########%##%#%%%%%%%%#+===++++++++++
-==------==+===========%%%%%%%%--%--------------@--:==##########%###%%%%%%%%#+=+++++++++++
-=-=--=-===++==========#%%%%%%:------------+%#---#---===%###########%%%%%%%%%+==+++=++++++
----=#-================%%%%%%%-----=%%%----%%%%-------==+%######%####%%%%%%%%+++++++++++++
---====:#=====--==-==+%%%%%%%%--:--%%%%-----%%%%%----::==+%#####%####%%%+==++===++++++++++
----=====-=========+++#%%%%%%%-:--%%%%%-----%%%%%%%-----==%%%%#%%####%%%+==*#*************
-----====%-#========++#%%%%%%:--+%%%%%-------#%%%%%%%%---++%%##%######%%%*##**************
-==========-=========@%%%%%%+--%%%%%%*=--------%%%%%%%%--==%%%########%%%*****************
-+++*******++-*******%%%%%%%---%%%%%:+--%*----*---=------==%%%########%%%@****************
-************=-+-------*%%%%%------:#--%%%%-----::-----===*%%%########%%%%****************
-*************#----=----=%%%%%======---:----------======+%%%%%%%######%%%%%***************
-************-------*-=---%%%%%%%=---------------#----===%%%%%%%%#####%%%%%%**************
-***********------#--@-----+%%%%%%-:-----::---::------==#%%%%%%%####%%%%%%%%************##
-************------+-:+++++=%%%%%%%---%%%%%%%%%%%%-%--==%%%%%%%%##%##%%%%%%%***********###
-*************-----=%##%%#--%%%%%%%%--%%%%%%%%****----=%%%%%%%%%#####%%%%%%%#*********####
-###***********--#######%#%%-%##%%%%%-=%%***%*****---=+%%%%%%%%%###%%%%%%%%%#*#*#*#*######
-######********%####%###########%%%%%%-%+++@++++*%---=%%%%%%%%%%%##%%%%%%%%%%#############
-########*##*###%#%#####%%%%%%%%%%%%%%-++++++++*%%--=+%%%%%%%%%%##%%%%%%%%%%%%*###########
-##########*###%#####%#########%=%%%%%%++++++++@%:--=%%%%%%%%%###%%%%%%%%%%%%%%%%%%#######
-#################%######%%#####=-%%%%+++++++++%%--+%%%%%%%###%%%%%%%%%%%%%%%%%%%%%%%%####
-#####################%%##%%#%%=---%%%=++++++++%--==%%%%%%##%%%%%%%%%%%%%%%%####%####%%%##
-###################%@###%%%=+*------%%++++++++=--=%%%%##%%%%%%%%%%%%%%%%##%%##########%%#
-######################%%%%==#---+====%%+++++++--=%%%%%%%%%%%%%%%%%%##%####%#############%
-###############%%######%%%==-:---%=----=%%#==--:=%%%%%%%%%%%%%%#####%%%%###%##%%%#%###%%%
-#############%##%#####%%%%%=---:--++++++%%@+--=@%%%%%%%%%%%%%#%##%####%##%#%%%#####%##%##
-################%#%%%%#%%%%+----+++++++%%%%%%%%%%%%%%%%%#%%%%%#%%%%%##%%##%%#%%%%##%####%
-###########%%%##%@##%#%%%%%%:--=+++===%%#%%%%%%%%%%%%##%%%##%###%%##%%%##%%%#%%%%#%#####%
-
-
+█████ █████  ███  ████  ████  █████ █████ █   █ █████ ████  ████  ████    
+█░░░░░█░░░░░█ ░░█ █░░░█ █░░░█ █░░░░░█░░░░░█░  █░█░░░░░█░░░█ █░░░█ █░░░█   
+████░░████░░█████░████░░████░░████░░████░░█░░ █░████░░████░░████░░████░░  
+█░░░░ █░░░░ █░░░█░█░░█░ █░░█░ █░░░░ █░░░░  █░█ ░█░░░░ █░░█░ █░░█░ █░░█░ ░ 
+█░░░░░█████░█░░░█░█░░░█░█░░░█░█░░░░░█████░  █ ░ █████░█░░░█░█░░░█░█░░░█░  
+ ░░    ░░░░░ ░░  ░░░░  ░ ░░  ░ ░░    ░░░░░   ░ ░ ░░░░░ ░░  ░ ░░  ░ ░░  ░  
+  ░     ░░░░░ ░   ░ ░   ░ ░   ░ ░     ░░░░░   ░   ░░░░░ ░   ░ ░   ░ ░   ░ 
 ```
 ## 🏩 Technologies & Tools 🏩
 
@@ -67,6 +38,8 @@
 ![bash](https://img.shields.io/badge/bash-pink%3Flogo%3Dgnubash?style=social&logo=gnubash&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
 ![gdscript](https://img.shields.io/badge/Godot-pink%3Flogo%3Dgodotengine?style=social&logo=godotengine&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
 ![javascript](https://img.shields.io/badge/Javascript-pink%3Flogo%3Djavascript?style=social&logo=javascript&logoColor=pink&logoSize=32px&labelColor=pink&color=white)
+
+![Top Languages](https://ghstats.dev/api/langs?username=fearrfeverrr&theme=dracula&border_radius=5&custom_title=Chill+Stats)
 
 ### ❣️Technologies & Frameworks ❣️
 
@@ -88,12 +61,7 @@
 
 ## 💥 GitHub Stats 💥
 
-<p align="center">
-    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=fearrfeverrr&hide_border=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=fearrfeverrr&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=ecb4d1&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearrfeverrr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-</p>
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=fearrfeverrr&theme=dracula&border_radius=5&custom_title=Chill+Stats&size=compact&show_emoji=true)
 
 ## 💋My Projects💋
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L7F821Q562)
@@ -104,10 +72,11 @@
     <a href="https://(https://fearrfeverrr.neocities.org/)">Neocities<
       <img height="64px" src="https://fearrfeverrr.neocities.org/Hiiiiii%20(1).png"/>
     </a>
-   </details>
-
 
 <details>
+  
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=fearrfeverrr&theme=dracula&days=90&width=320&height=80&border_radius=3)  
+
   <summary><b> 🦇Desktop 🦇</b></summary>
   <br/>
   <p align="center">
