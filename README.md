@@ -1,5 +1,5 @@
 <p align="center">
-
+<p>
   ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&style=plastic)
   
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=repos&style=plastic)
@@ -7,6 +7,7 @@
   ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=commits&style=plastic)
   
   ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=contributions&label=Contributions&style=plastic)
+  </p>
 
 
 
@@ -14,6 +15,13 @@
   
   
   <b> Welcome to f̵͖̤͑ȩ̖̺͙̺̦̖̤ͅa̩̰͙̜͙̭̐ͅŗ͍̐ͭ͛̇̃̔̋ͩr̘͇͇̖̩̼͙f̸̵̲̱͇͕̯̼̹̾ͤ̈͗̽ȩ̶̲̲̹̓̿̑̅ͨͅv̪͈̣͈̗̼̑͒e̱̻̬̫̫͕̳͂̎ͨ̅͂͐ŗ̰̘̬̱̮̽̄ͤ́ͦͅr̸̜̙̱̫̤̫͐̾̓̍r͔̯̤̹̠̬̤̼̓ͥ̀̎ͮ̎ͬ </b>
+
+
+
+
+
+
+
 
 
  
