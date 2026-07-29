@@ -6,7 +6,7 @@
   ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=commits&style=plastic)
   ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=fearrfeverrr&theme=dracula&metric=contributions&label=Contributions&style=plastic) 
 
-  [![Miya W. profile views](https://u8views.com/api/v1/github/profiles/232473374/views/day-week-month-total-count.svg)](https://u8views.com/github/fearrfeverrr&theme=dracula&style=plastic)  
+  [![Miya W. profile views](https://u8views.com/api/v1/github/profiles/232473374/views/day-week-month-total-count/theme=dracla&style=plastic.svg)](https://u8views.com/github/fearrfeverrr&theme=dracula&style=plastic)  
   </p>
 
 
